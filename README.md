@@ -1,2 +1,3 @@
 # sunyong
-asdasdas
+Repository for ML study
+
